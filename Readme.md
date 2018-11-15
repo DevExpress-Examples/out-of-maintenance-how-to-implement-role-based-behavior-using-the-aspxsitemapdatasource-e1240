@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [default.aspx](./CS/WebSite/default.aspx)
+* [default.aspx.cs](./CS/WebSite/default.aspx.cs)
+<!-- default file list end -->
 # How to implement role-based behavior using the ASPxSiteMapDataSource 
 
 
