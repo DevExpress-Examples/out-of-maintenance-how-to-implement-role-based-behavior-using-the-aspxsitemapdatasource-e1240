@@ -6,6 +6,9 @@
 * [web1.sitemap](./CS/WebSite/web1.sitemap)
 <!-- default file list end -->
 # How to implement role-based behavior using the ASPxSiteMapDataSource 
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e1240)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to implement role management at the level of the SiteMapProvider. This approach seems to be more straightforward than using a standard RoleProvider, and defining roles in the ASP.NET configuration.<br />
