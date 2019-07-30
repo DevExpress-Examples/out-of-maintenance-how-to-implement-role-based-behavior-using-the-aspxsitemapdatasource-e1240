@@ -7,7 +7,7 @@
 <!-- default file list end -->
 # How to implement role-based behavior using the ASPxSiteMapDataSource 
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e1240)**
+**[[Run Online]](https://codecentral.devexpress.com/e1240/)**
 <!-- run online end -->
 
 
