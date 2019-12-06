@@ -1,9 +1,9 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [default.aspx](./CS/WebSite/default.aspx)
-* [default.aspx.cs](./CS/WebSite/default.aspx.cs)
-* [web1.sitemap](./CS/WebSite/web1.sitemap)
+* [Default.aspx](./CS/E1240/Default.aspx) (VB: [Default.aspx](./VB/E1240/Default.aspx))
+* [Default.aspx.cs](./CS/E1240/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/E1240/Default.aspx.vb))
+* [web1.sitemap](./CS/E1240/web1.sitemap) (VB: [web1.sitemap](./VB/E1240/web1.sitemap))
 <!-- default file list end -->
 # How to implement role-based behavior using the ASPxSiteMapDataSource 
 <!-- run online -->
