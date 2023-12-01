@@ -1,9 +1,0 @@
-<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" securityTrimmingEnabled="true">
-  <siteMapNode url="~/default.aspx" title="Home"  description="Home" >
-    <siteMapNode title="Tools" roles="admin" >
-      <siteMapNode url="~/default.aspx?i=1" title="Manage Users"  description="" roles="admin" />
-    </siteMapNode>
-    <siteMapNode url="~/default.aspx?i=2" title="Products"  description="" roles="*" />
-    <siteMapNode url="~/default.aspx?i=3" title="Support"  description="" roles="*" />
-  </siteMapNode>
-</siteMap>
