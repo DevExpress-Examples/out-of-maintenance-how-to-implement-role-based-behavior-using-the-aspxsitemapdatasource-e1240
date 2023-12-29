@@ -1,7 +1,3 @@
-<!-- default badges list -->
-[![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E1240)
-[![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
-<!-- default badges end -->
 <!-- default file list -->
 *Files to look at*:
 
@@ -9,9 +5,6 @@
 * [default.aspx.cs](./CS/WebSite/default.aspx.cs)
 <!-- default file list end -->
 # How to implement role-based behavior using the ASPxSiteMapDataSource 
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e1240)**
-<!-- run online end -->
 
 
 <p>This example demonstrates how to implement role management at the level of the SiteMapProvider. This approach seems to be more straightforward than using a standard RoleProvider, and defining roles in the ASP.NET configuration.<br />
